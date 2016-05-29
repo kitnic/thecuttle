@@ -1,0 +1,4 @@
+summary: A cuttlefish PCB
+site: http://www.boldport.com
+gerbers: build/production/
+bom: build/bom/1-click-bom.tsv
